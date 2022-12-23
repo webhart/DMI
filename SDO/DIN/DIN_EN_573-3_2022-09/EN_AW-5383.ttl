@@ -1,0 +1,9 @@
+@prefix ns1: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ns2: <https://w3id.org/DMI/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/DMI/SDO/DIN/DIN_EN_573-3_2022-09/EN_AW-5383> a ns2:DigitalMaterialIdentifier ;
+    ns1:altLabel "EN AW-Al Mg4,5Mn0,9"^^xsd:string ;
+    ns1:prefLabel "EN AW-5383"^^xsd:string ;
+    ns2:specified_by <https://w3id.org/DMI/SDO/DIN/DIN_EN_573-3_2022-09> .
+

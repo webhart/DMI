@@ -1,0 +1,8 @@
+@prefix ns1: <http://purl.org/dc/elements/1.1/> .
+@prefix ns2: <https://w3id.org/DMI/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/DMI/SDO/DIN/DIN_EN_573-3_2022-09> a ns2:Standard ;
+    ns1:identifier "https://dx.doi.org/10.31030/3315136"^^xsd:anyURI ;
+    ns2:issued_by <https://w3id.org/DMI/SDO/DIN> .
+

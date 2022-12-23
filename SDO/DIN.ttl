@@ -1,0 +1,6 @@
+@prefix ns1: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/DMI/SDO/DIN> a <https://w3id.org/DMI/Standards_Defining_Organisation> ;
+    ns1:homepage "https://din.de"^^xsd:anyURI .
+
